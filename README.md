@@ -244,8 +244,16 @@ The solution supports:
 
 ## 📦 Deliverables
 
-- [Research Paper](Customer_Engagement_Retention_Analytics_Research_Paper.docx)
-- [Executive Summary](Customer_Engagement_Retention_Analytics_Executive_Summary.docx)
+### 📄 Research Paper
+-[Download Research Paper (PDF)](docs/Research_Paper.pdf)
+
+-[Download Research Paper (DOCX)](docs/Research_Paper.docx)
+
+### 📊 Executive Summary
+-[Download Executive Summary (PDF)](docs/Executive_Summary.pdf)
+
+-[Download Executive Summary (DOCX)](docs/Executive_Summary.docx)
+### 🚀 Live Streamlit Dashboard
 - [Live Streamlit Dashboard](https://customerengagementretentionanalytics.streamlit.app)
 
 ## 👤 Author
